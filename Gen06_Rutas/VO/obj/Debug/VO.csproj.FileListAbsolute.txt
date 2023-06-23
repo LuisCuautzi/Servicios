@@ -1,0 +1,6 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\bin\Debug\VO.dll
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\bin\Debug\VO.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\obj\Debug\VO.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\obj\Debug\VO.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\obj\Debug\VO.dll
+C:\Users\TRNET-13\source\repos\Gen 06_23\NuevoProfe\Gen06_Rutas\VO\obj\Debug\VO.pdb
